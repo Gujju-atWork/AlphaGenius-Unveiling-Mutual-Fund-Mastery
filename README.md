@@ -32,5 +32,4 @@ This project involves the analysis of mutual funds data encompassing approximate
 - Continuous monitoring and updating of the dashboard to reflect the latest data and insights.
 
 ## Dashboard Screenshots
-![Dashboard Screenshot 1](dashboard_screenshot_1.png)
-![Dashboard Screenshot 2](dashboard_screenshot_2.png)
+- Can be seen in final_project.pdf
